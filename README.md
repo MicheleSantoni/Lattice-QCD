@@ -2,6 +2,9 @@
 
 This repository contains the notebook **`Montecarlo_QCD.ipynb`**, which implements a simple Monte Carlo generator for Quantum Chromodynamics (QCD) processes. The notebook provides a step-by-step demonstration of how to sample physical distributions, compute observables, and visualize results within the QCD framework.
 
+The notebook studies the simpler case of SU(2), which permits to see typical QCD features such as confinement and symptotic freedom. The goal of the project was to reproduce the results from:
+Michael Creutz, Monte Carlo Study of Quantized SU(2) Gauge Theory, Physical Review D, vol. 21, no. 8, pp. 2308–2315, 1980.
+
 ---
 
 ## **📌 Overview**
